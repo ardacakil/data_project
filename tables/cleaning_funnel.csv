@@ -1,0 +1,8 @@
+step,rows
+raw file,70006
+dir == 'in' (buying league),31934
+"permanent (no loan, no loan end)",17983
+fee > 0,7217
+market value > 0,6097
+15 <= age <= 45,6097
+outlier rule |z(premium)| <= 3,6063

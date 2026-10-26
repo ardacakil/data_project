@@ -1,0 +1,8 @@
+league_name,median_value_dropped_EURm,median_value_kept_EURm,n_dropped_with_value
+England,1.0,3.5,584
+France,0.7,2.5,1086
+Germany,0.6,2.0,835
+Italy,0.375,1.2,1053
+Netherlands,0.4,0.8,1308
+Portugal,0.325,1.35,1730
+Spain,0.8,2.5,925

@@ -1,0 +1,13 @@
+# Python / Jupyter
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Data: transfers.csv is scraped from Transfermarkt and not redistributed here.
+# Download it as described in data/README.md.
+data/*.csv

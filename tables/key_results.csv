@@ -1,0 +1,61 @@
+key,value
+sample_size,6063
+outliers_dropped_z_gt_3,34
+anova_league_F,40.24
+anova_league_p,2.67e-48
+tukey_league_significant_pairs,15 of 21
+main_model_R2,0.475
+league_pct_vs_NL_England,"+320.0% [+271.7, +374.5]"
+league_pct_vs_NL_Italy,"+162.8% [+134.0, +195.0]"
+league_pct_vs_NL_Spain,"+134.3% [+106.2, +166.3]"
+league_pct_vs_NL_Germany,"+121.6% [+95.9, +150.8]"
+league_pct_vs_NL_France,"+117.3% [+91.7, +146.3]"
+league_pct_vs_NL_Portugal,"+43.7% [+24.3, +66.2]"
+std_player_ratio_England,"2.44 [2.13, 2.79]"
+std_player_ratio_Italy,"1.52 [1.34, 1.73]"
+std_player_ratio_Spain,"1.36 [1.18, 1.56]"
+std_player_ratio_Germany,"1.29 [1.12, 1.47]"
+std_player_ratio_France,"1.26 [1.10, 1.45]"
+std_player_ratio_Portugal,"0.83 [0.72, 0.97]"
+std_player_ratio_Netherlands,"0.58 [0.50, 0.68]"
+elasticity_log_val,0.523
+main_pos_group=DEF,"-22.7% [-27.6, -17.5]"
+main_pos_group=GK,"-35.0% [-42.0, -27.3]"
+main_pos_group=MID,"-11.5% [-17.2, -5.5]"
+main_age_band=22-25,"+54.8% [+45.6, +64.6]"
+main_age_band=26-29,"+115.2% [+99.0, +132.8]"
+main_age_band=30+,"+83.8% [+60.0, +111.0]"
+peak_age,28.8
+delta_R2_position,0.0067
+delta_R2_age_given_position,0.0334
+anova_age_F_p,"F=154.18, p=2.70e-96"
+anova_position_F_p,"F=7.02, p=1.04e-04"
+anova_value_tier_F_p,"F=793.13, p=0.00e+00"
+subgroup_consistency_England,yes (13/13 same sign vs Germany)
+subgroup_consistency_Italy,no (12/13 same sign vs Germany)
+subgroup_consistency_Spain,no (9/13 same sign vs Germany)
+subgroup_consistency_France,no (7/13 same sign vs Germany)
+subgroup_consistency_Portugal,yes (12/12 same sign vs Germany)
+subgroup_consistency_Netherlands,yes (12/12 same sign vs Germany)
+england_top_in_subgroups,13 of 13
+spearman_season_premium,"rho=-0.290, p=5.54e-118"
+england_x_post2016,"+9.1% [-4.6, +24.8], p=0.204, HC3 p=0.186"
+is_domestic_pct,"-18.7% [-22.9, -14.3]"
+network_modularity,0.079
+network_communities,2
+reciprocity_7_buyers,1.0
+degree_assortativity_directed,-0.138
+chi2_seller_x_buyer,"chi2=8397.5, df=72, p=0.00e+00, 68 sellers grouped"
+chi2_league_x_in_sample,"chi2=1370.7, df=6, p=5.27e-293"
+robust_(a)_England,+263.8%
+robust_(a)_France,+99.6%
+robust_(a)_Germany,+104.3%
+robust_(a)_Italy,+139.0%
+robust_(a)_Portugal,+38.9%
+robust_(a)_Spain,+109.2%
+robust_(b)_England,+273.9%
+robust_(b)_France,+85.4%
+robust_(b)_Germany,+101.1%
+robust_(b)_Italy,+139.0%
+robust_(b)_Portugal,+35.6%
+robust_(b)_Spain,+101.0%

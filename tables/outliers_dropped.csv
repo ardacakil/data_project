@@ -1,0 +1,35 @@
+league,season,window,team_id,team_name,team_country,dir,player_id,player_name,player_age,player_nation,player_nation2,player_pos,counter_team_id,counter_team_name,counter_team_country,transfer_fee_amnt,market_val_amnt,is_free,is_loan,is_loan_end,is_retired,transfer_id,premium
+GB1,2010,s,543,Wolverhampton Wanderers,England,in,171679,Matt Doherty,18.0,Ireland,,RB,9211,Bohemian Football Club,Ireland,90000.0,16000000.0,False,False,False,False,516690,-5.180534330891653
+GB1,2010,s,512,Stoke City,England,in,30456,Marc Wilson,23.0,Ireland,Northern Ireland,CB,1020,Portsmouth FC,England,3600000.0,10000.0,False,False,False,False,474789,5.886104031450154
+GB1,2010,s,289,Sunderland AFC,England,in,26802,Asamoah Gyan,24.0,Ghana,,CF,273,Stade Rennais FC,France,16000000.0,100000.0,False,False,False,False,474661,5.075173815233827
+GB1,2015,s,762,Newcastle United,England,in,251664,Ivan Toney,19.0,England,Jamaica,CF,1302,Northampton Town,England,360000.0,32000000.0,False,False,False,False,1312137,-4.48738715033171
+GB1,2016,s,989,AFC Bournemouth,England,in,30456,Marc Wilson,28.0,Ireland,Northern Ireland,CB,512,Stoke City,England,2300000.0,10000.0,False,False,False,False,1571481,5.438079308923195
+ES1,2012,s,3368,Levante UD,Spain,in,79422,Keylor Navas,25.0,Costa Rica,Spain,GK,1532,Albacete Balompié,Spain,150000.0,12000000.0,False,False,False,False,744157,-4.382026634673883
+ES1,2013,w,13,Atlético de Madrid,Spain,in,250845,José María Giménez,18.0,Uruguay,Spain,CB,1306,Danubio FC,Uruguay,995000.0,60000000.0,False,False,False,False,864688,-4.0993571040456445
+IT1,2009,s,1627,Calcio Catania,Italy,in,41312,Simone Pesce,27.0,Italy,,CM,408,Ascoli Calcio 1898,Italy,500000000.0,200000.0,False,False,False,False,338638,7.824046010856293
+IT1,2009,s,1390,Cagliari Calcio,Italy,in,35719,Andrea Cocco,24.0,Italy,,CF,24361,Alghero 1945,Italy,500000000.0,75000.0,False,False,False,False,434798,8.80487526386802
+IT1,2010,s,332,AS Bari,Italy,in,23345,Barreto,24.0,Brazil,Italy,SS,410,Udinese Calcio,Italy,4500000.0,25000.0,False,False,False,False,436784,5.19295685089021
+IT1,2010,s,252,Genoa CFC,Italy,in,62270,Danilo Russo,23.0,Italy,,GK,2655,Vicenza Calcio,Italy,500000000.0,100000.0,False,False,False,False,590150,8.517193191416238
+IT1,2010,s,12,AS Roma,Italy,in,41310,Stefano Guberti,26.0,Italy,,LW,1038,UC Sampdoria,Italy,500000000.0,50000.0,False,False,False,False,590004,9.210340371976184
+IT1,2011,s,6692,Novara Calcio 1908,Italy,in,28935,Paolo Dellafiore,26.0,Italy,Argentina,CB,130,Parma FC,Italy,500000000.0,25000.0,False,False,False,False,616725,9.903487552536129
+IT1,2011,s,6195,SSC Napoli,Italy,in,19041,Gökhan Inler,27.0,Switzerland,Turkey,DM,410,Udinese Calcio,Italy,18000000.0,100000.0,False,False,False,False,600469,5.19295685089021
+IT1,2011,s,410,Udinese Calcio,Italy,in,23345,Barreto,25.0,Brazil,Italy,SS,332,AS Bari,Italy,3500000.0,25000.0,False,False,False,False,589977,4.941642422609304
+IT1,2011,s,252,Genoa CFC,Italy,in,91914,Davide Bertoncini,21.0,Italy,,CB,1408,Piacenza FC,Italy,550000000.0,300000.0,False,False,False,False,735935,7.513891082552455
+IT1,2012,s,2921,Delfino Pescara 1936,Italy,in,164088,Luca Berardocco,21.0,Italy,,DM,4172,AC Pisa 1909,Italy,500000000.0,300000.0,False,False,False,False,734226,7.418580902748129
+IT1,2012,w,416,Torino FC,Italy,in,23345,Barreto,27.0,Brazil,Italy,SS,410,Udinese Calcio,Italy,3550000.0,25000.0,False,False,False,False,824042,4.95582705760126
+IT1,2013,s,506,Juventus FC,Italy,in,150552,Alberto Gallinetta,21.0,Italy,,GK,130,Parma FC,Italy,1780000.0,10000.0,False,False,False,False,889593,5.181783550292085
+IT1,2013,s,6574,US Sassuolo,Italy,in,163628,Riccardo Barbuti,21.0,Italy,,CF,5585,SS Barletta Calcio,Italy,500000000.0,200000.0,False,False,False,False,890418,7.824046010856293
+IT1,2013,s,130,Parma FC,Italy,in,89034,Riccardo Brosco,22.0,Italy,,CB,2921,Delfino Pescara 1936,Italy,500000000.0,500000.0,False,False,False,False,890865,6.907755278982139
+IT1,2014,s,130,Parma FC,Italy,in,72857,Pedro Mendes,23.0,Portugal,,CB,6574,US Sassuolo,Italy,100000.0,6000000.0,False,False,False,False,1073899,-4.094344562222101
+IT1,2015,s,46,Inter Milan,Italy,in,240822,Vincenzo Tommasone,20.0,Italy,,SS,8517,Genoa Primavera,Italy,3700000.0,25000.0,False,False,False,False,1268693,4.997212273764115
+IT1,2015,s,5,AC Milan,Italy,in,332179,Matteo Pessina,18.0,Italy,,AM,2919,SSD Monza 1912,Italy,20000.0,20000000.0,False,False,False,False,1271546,-6.907755278982137
+IT1,2019,s,398,SS Lazio,Italy,in,339566,Luca Germoni,21.0,Italy,,LB,20519,Virtus Entella,Italy,1000.0,200000.0,False,False,False,False,2535548,-5.298317366548037
+IT1,2019,w,252,Genoa CFC,Italy,in,34198,Andrea Masiello,33.0,Italy,,CB,800,Atalanta BC,Italy,100000000.0,800000.0,False,False,False,False,2778510,4.828313737302302
+L1,2015,s,79,VfB Stuttgart,Germany,in,161056,Joshua Kimmich,20.0,Germany,,DM,23826,RB Leipzig,Germany,1500000.0,90000000.0,False,False,False,False,1166764,-4.0943445622220995
+L1,2016,s,533,TSG 1899 Hoffenheim,Germany,in,257814,Gregor Kobel,18.0,Switzerland,,GK,14543,Grasshopper Club Zürich U18,Switzerland,138000.0,18000000.0,False,False,False,False,1492173,-4.870873351721098
+PO1,2012,s,2425,Rio Ave FC,Portugal,in,225693,Fabinho,18.0,Brazil,,DM,14702,Fluminense Football Club U20,Brazil,500000.0,60000000.0,False,False,False,False,727110,-4.787491742782047
+PO1,2014,w,1301,CS Marítimo,Portugal,in,283130,Moussa Marega,23.0,Mali,France,SS,3342,Esperance Tunis,Tunisia,75000.0,10000000.0,False,False,False,False,1184905,-4.8928522584398735
+PO1,2015,s,294,SL Benfica,Portugal,in,238223,Ederson,21.0,Brazil,Portugal,GK,2425,Rio Ave FC,Portugal,500000.0,50000000.0,False,False,False,False,1269988,-4.605170185988092
+NL1,2014,w,610,Ajax Amsterdam,Netherlands,in,234509,André Onana,18.0,Cameroon,,GK,2470,FC Barcelona U19,Spain,150000.0,17000000.0,False,False,False,False,1167263,-4.730333328942097
+NL1,2015,s,1304,Heracles Almelo,Netherlands,in,273132,Robin Gosens,20.0,Germany,Netherlands,LM,36892,Vitesse Arnhem U21,Netherlands,200000.0,35000000.0,False,False,False,False,1254653,-5.1647859739235145
+NL1,2016,s,317,Twente Enschede FC,Netherlands,in,92738,Mateusz Klich,26.0,Poland,,CM,2,1.FC Kaiserslautern,Germany,50000.0,4000000.0,False,False,False,False,1581746,-4.382026634673881
